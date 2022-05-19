@@ -1,0 +1,36 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=ALLDAYDJ.chm
+Contents file=ALLDAYDJ.hhc
+Default topic=index.html
+Display compile progress=No
+Full-text search=Yes
+Index file=ALLDAYDJ.hhk
+Language=0x809 English (United Kingdom)
+Title=AllDay DJ Help
+
+
+[FILES]
+keyboards.html
+recommendations.html
+contents_main.html
+index.html
+advertisements.html
+automation.html
+controls.html
+db_add.html
+db_remove.html
+instant_players.html
+logging_in.html
+logs.html
+networking.html
+news.html
+playing_file.html
+playlists.html
+rotation.html
+settings.html
+soundcards.html
+
+[INFOTYPES]
+

@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling d:\DOCUMENTS AND SETTINGS\MARC\MY DOCUMENTS\AH DSS\ALLDAYDJ\HELP\ALLDAYDJ.CHM
+
+
+Compile time: 0 minutes, 4 seconds
+21	Topics
+76	Local links
+0	Internet links
+19	Graphics
+
+
+Created d:\DOCUMENTS AND SETTINGS\MARC\MY DOCUMENTS\AH DSS\ALLDAYDJ\HELP\ALLDAYDJ.CHM, 215,540 bytes
+Compression decreased file by 2,898,660 bytes.

@@ -1,0 +1,1092 @@
+[Root]
+Most Recent Package=AllDay DJ Final Package
+
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\Package
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Files Found]
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Files Released]
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Missing Dependency Information]
+D:\WINDOWS\system32\mshtml.tlb=
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+D:\WINDOWS\system32\wmp.dll=
+D:\downloads\MPSetup.exe=
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Files Added]
+D:\downloads\MPSetup.exe=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Files Removed]
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Files In Project]
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\AllDay DJ.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\hhctrl.ocx=Yes
+D:\WINDOWS\system32\itss.dll=Yes
+D:\WINDOWS\system32\itircl.dll=Yes
+D:\WINDOWS\hh.exe=Yes
+D:\WINDOWS\system32\COMCTL32.OCX=Yes
+D:\WINDOWS\system32\MSADODC.OCX=Yes
+D:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+D:\WINDOWS\system32\wmp.dll=Yes
+D:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+D:\WINDOWS\system32\COMDLG32.OCX=Yes
+D:\WINDOWS\system32\MSDATGRD.OCX=Yes
+D:\WINDOWS\system32\MSDATLST.OCX=Yes
+D:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+D:\WINDOWS\system32\MSBIND.DLL=Yes
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+D:\WINDOWS\system32\MSJET35.DLL=Yes
+D:\WINDOWS\system32\MSJTER35.DLL=Yes
+D:\WINDOWS\system32\MSJINT35.DLL=Yes
+D:\WINDOWS\system32\vbajet32.dll=Yes
+D:\WINDOWS\system32\expsrv.dll=Yes
+D:\WINDOWS\system32\MSRD2X35.DLL=Yes
+D:\WINDOWS\system32\MSREPL35.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+D:\WINDOWS\system32\VB5DB.DLL=Yes
+D:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+D:\WINDOWS\system32\mshtml.tlb=Yes
+D:\WINDOWS\system32\MSRDO20.DLL=Yes
+D:\WINDOWS\system32\RDOCURS.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\downloads\MPSetup.exe=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Install Locations]
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\AllDay DJ.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\itss.dll=$(WinSysPath)
+D:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+D:\WINDOWS\hh.exe=$(WinSysPath)
+D:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\WINDOWS\system32\mshtml.tlb=$(WinSysPath)
+D:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+D:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\downloads\MPSetup.exe=$(AppPath)\wmpinst
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=$(AppPath)\help\
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=$(AppPath)\help
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\AllDay DJ.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\downloads\MPSetup.exe=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=No
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Distribution]
+Type=single
+Size=
+Title=AllDay DJ V1.0 Beta
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|IconGroups]
+Group0=AllDay DJ Beta
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|AllDay DJ Beta]
+Icon1="AllDay DJ.exe"
+Title1=AllDay DJ
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|AllDay DJ V1.0 Beta Setup Package 1|Package]
+PackageFolder=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\Package
+ProjectFolder=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ
+ServerSideCab=
+File1=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\Package\setup.exe
+File2=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\Package\Setup.Lst
+File3=D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\Package\AllDay DJ.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|AllDay DJ V1.0 Beta Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\AllDayDJ\setup
+
+[Package|AllDay DJ V1.0 Beta Setup|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup|Files Found]
+advertisements.html=G:\AH DSS\AllDayDJ\help\advertisements.html
+LOGS.MDB=G:\AH DSS\AllDayDJ\LOGS.MDB
+
+[Package|AllDay DJ V1.0 Beta Setup|Files Released]
+MPSetup.exe=
+
+[Package|AllDay DJ V1.0 Beta Setup|Missing Dependency Information]
+D:\WINDOWS\system32\mshtml.tlb=
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+D:\WINDOWS\system32\wmp.dll=
+D:\downloads\MPSetup.exe=
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=
+C:\WINDOWS\SYSTEM\MSHTML.TLB=
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=
+C:\WINDOWS\SYSTEM\wmp.dll=
+C:\WINDOWS\SYSTEM\msbind.dll=
+C:\WINDOWS\SYSTEM\mshflxgd.ocx=
+C:\WINDOWS\SYSTEM\msstdfmt.dll=
+
+[Package|AllDay DJ V1.0 Beta Setup|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM\mscomctl.ocx=
+C:\WINDOWS\SYSTEM\msdatlst.ocx=
+C:\WINDOWS\SYSTEM\msdatgrd.ocx=
+C:\WINDOWS\SYSTEM\comdlg32.ocx=
+C:\WINDOWS\SYSTEM\msadodc.ocx=
+C:\WINDOWS\SYSTEM\comctl32.ocx=
+
+[Package|AllDay DJ V1.0 Beta Setup|Files Added]
+logs.mdb=
+news.txt=
+record_collection.mdb=
+rotation.txt=
+station.txt=
+advertisements.html=
+automation.html=
+contents_main.html=
+controls.html=
+db_add.html=
+db_remove.html=
+index.html=
+instant_players.html=
+keyboards.html=
+logging_in.html=
+logs.html=
+news.html=
+playing_file.html=
+recommendations.html=
+rotation.html=
+screen_shot_add.jpg=
+screen_shot_add_break.jpg=
+screen_shot_admin_options.jpg=
+screen_shot_break_delete.jpg=
+screen_shot_controls.jpg=
+screen_shot_instant_players.jpg=
+screen_shot_instant_players_small.jpg=
+screen_shot_login.jpg=
+screen_shot_logs.jpg=
+screen_shot_news.jpg=
+screen_shot_playlist.jpg=
+screen_shot_previous_songs.jpg=
+screen_shot_remove_results.jpg=
+screen_shot_remove_search.jpg=
+screen_shot_rotation.jpg=
+screen_shot_search.bmp=
+screen_shot_search_results.bmp=
+screen_shot_select_advert.jpg=
+screen_shot_settings.jpg=
+screen_shot_timers.jpg=
+screen_shot_welcome.jpg=
+settings.html=
+
+[Package|AllDay DJ V1.0 Beta Setup|Files Removed]
+
+[Package|AllDay DJ V1.0 Beta Setup|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\wmp.dll=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHTML.TLB=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\AH DSS\AllDayDJ\AllDay DJ.exe=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+G:\AH DSS\AllDayDJ\LOGS.MDB=Yes
+G:\AH DSS\AllDayDJ\NEWS.TXT=Yes
+G:\AH DSS\AllDayDJ\record_collection.mdb=Yes
+G:\AH DSS\AllDayDJ\ROTATION.TXT=Yes
+G:\AH DSS\AllDayDJ\STATION.TXT=Yes
+G:\AH DSS\AllDayDJ\help\advertisements.html=Yes
+G:\AH DSS\AllDayDJ\help\automation.html=Yes
+G:\AH DSS\AllDayDJ\help\contents_main.html=Yes
+G:\AH DSS\AllDayDJ\help\controls.html=Yes
+G:\AH DSS\AllDayDJ\help\db_add.html=Yes
+G:\AH DSS\AllDayDJ\help\db_remove.html=Yes
+G:\AH DSS\AllDayDJ\help\index.html=Yes
+G:\AH DSS\AllDayDJ\help\instant_players.html=Yes
+G:\AH DSS\AllDayDJ\help\keyboards.html=Yes
+G:\AH DSS\AllDayDJ\help\logging_in.html=Yes
+G:\AH DSS\AllDayDJ\help\logs.html=Yes
+G:\AH DSS\AllDayDJ\help\news.html=Yes
+G:\AH DSS\AllDayDJ\help\playing_file.html=Yes
+G:\AH DSS\AllDayDJ\help\recommendations.html=Yes
+G:\AH DSS\AllDayDJ\help\rotation.html=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_add.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_login.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_news.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_search.bmp=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=Yes
+G:\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=Yes
+G:\AH DSS\AllDayDJ\help\settings.html=Yes
+
+[Package|AllDay DJ V1.0 Beta Setup|Configure Registry Files]
+Applicable=No
+
+[Package|AllDay DJ V1.0 Beta Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|AllDay DJ V1.0 Beta Setup|Install Locations]
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\AllDay DJ.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\itss.dll=$(WinSysPath)
+D:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+D:\WINDOWS\hh.exe=$(WinSysPath)
+D:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\WINDOWS\system32\mshtml.tlb=$(WinSysPath)
+D:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+D:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\downloads\MPSetup.exe=$(AppPath)\wmpinst
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=$(AppPath)
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=$(AppPath)\help\
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=$(AppPath)\help
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=$(AppPath)\help
+E:\AH DSS\AllDayDJ\AllDay DJ.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itss.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\wmp.dll=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHTML.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\AH DSS\AllDayDJ\LOGS.MDB=$(AppPath)
+E:\AH DSS\AllDayDJ\NEWS.TXT=$(AppPath)
+E:\AH DSS\AllDayDJ\record_collection.mdb=$(AppPath)
+E:\AH DSS\AllDayDJ\ROTATION.TXT=$(AppPath)
+E:\AH DSS\AllDayDJ\STATION.TXT=$(AppPath)
+E:\AH DSS\AllDayDJ\help\advertisements.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\automation.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\contents_main.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\controls.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\db_add.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\db_remove.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\index.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\instant_players.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\keyboards.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\logging_in.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\logs.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\news.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\playing_file.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\recommendations.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\rotation.html=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_add.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_login.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_news.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_search.bmp=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=$(AppPath)
+E:\AH DSS\AllDayDJ\help\settings.html=$(AppPath)
+G:\AH DSS\AllDayDJ\AllDay DJ.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+G:\AH DSS\AllDayDJ\LOGS.MDB=$(AppPath)
+G:\AH DSS\AllDayDJ\NEWS.TXT=$(AppPath)
+G:\AH DSS\AllDayDJ\record_collection.mdb=$(AppPath)
+G:\AH DSS\AllDayDJ\ROTATION.TXT=$(AppPath)
+G:\AH DSS\AllDayDJ\STATION.TXT=$(AppPath)
+G:\AH DSS\AllDayDJ\help\advertisements.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\automation.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\contents_main.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\controls.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\db_add.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\db_remove.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\index.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\instant_players.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\keyboards.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\logging_in.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\logs.html=$(AppPath)
+G:\AH DSS\AllDayDJ\help\news.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\playing_file.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\recommendations.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\rotation.html=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_add.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_login.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_news.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_search.bmp=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=$(AppPath)\help
+G:\AH DSS\AllDayDJ\help\settings.html=$(AppPath)\help
+
+[Package|AllDay DJ V1.0 Beta Setup|Configure Shared Files]
+Applicable=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\AllDay DJ.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\downloads\MPSetup.exe=Yes
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\LOGS.MDB=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\news.txt=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\record_collection.mdb=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\rotation.txt=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\STATION.TXT=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\advertisements.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\automation.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\contents_main.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\controls.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_add.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\db_remove.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\index.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\instant_players.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\keyboards.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logging_in.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\logs.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\news.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\playing_file.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\recommendations.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\rotation.html=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_login.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_news.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search.bmp=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=No
+D:\Documents and Settings\Marc\My Documents\AH DSS\AllDayDJ\help\settings.html=No
+E:\AH DSS\AllDayDJ\AllDay DJ.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\AH DSS\AllDayDJ\LOGS.MDB=No
+E:\AH DSS\AllDayDJ\NEWS.TXT=No
+E:\AH DSS\AllDayDJ\record_collection.mdb=No
+E:\AH DSS\AllDayDJ\ROTATION.TXT=No
+E:\AH DSS\AllDayDJ\STATION.TXT=No
+E:\AH DSS\AllDayDJ\help\advertisements.html=No
+E:\AH DSS\AllDayDJ\help\automation.html=No
+E:\AH DSS\AllDayDJ\help\contents_main.html=No
+E:\AH DSS\AllDayDJ\help\controls.html=No
+E:\AH DSS\AllDayDJ\help\db_add.html=No
+E:\AH DSS\AllDayDJ\help\db_remove.html=No
+E:\AH DSS\AllDayDJ\help\index.html=No
+E:\AH DSS\AllDayDJ\help\instant_players.html=No
+E:\AH DSS\AllDayDJ\help\keyboards.html=No
+E:\AH DSS\AllDayDJ\help\logging_in.html=No
+E:\AH DSS\AllDayDJ\help\logs.html=No
+E:\AH DSS\AllDayDJ\help\news.html=No
+E:\AH DSS\AllDayDJ\help\playing_file.html=No
+E:\AH DSS\AllDayDJ\help\recommendations.html=No
+E:\AH DSS\AllDayDJ\help\rotation.html=No
+E:\AH DSS\AllDayDJ\help\screen_shot_add.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=No
+E:\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=No
+E:\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_login.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_news.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=No
+E:\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=No
+E:\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_search.bmp=No
+E:\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=No
+E:\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=No
+E:\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=No
+E:\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=No
+E:\AH DSS\AllDayDJ\help\settings.html=No
+G:\AH DSS\AllDayDJ\AllDay DJ.exe=No
+G:\AH DSS\AllDayDJ\LOGS.MDB=No
+G:\AH DSS\AllDayDJ\NEWS.TXT=No
+G:\AH DSS\AllDayDJ\record_collection.mdb=No
+G:\AH DSS\AllDayDJ\ROTATION.TXT=No
+G:\AH DSS\AllDayDJ\STATION.TXT=No
+G:\AH DSS\AllDayDJ\help\advertisements.html=No
+G:\AH DSS\AllDayDJ\help\automation.html=No
+G:\AH DSS\AllDayDJ\help\contents_main.html=No
+G:\AH DSS\AllDayDJ\help\controls.html=No
+G:\AH DSS\AllDayDJ\help\db_add.html=No
+G:\AH DSS\AllDayDJ\help\db_remove.html=No
+G:\AH DSS\AllDayDJ\help\index.html=No
+G:\AH DSS\AllDayDJ\help\instant_players.html=No
+G:\AH DSS\AllDayDJ\help\keyboards.html=No
+G:\AH DSS\AllDayDJ\help\logging_in.html=No
+G:\AH DSS\AllDayDJ\help\logs.html=No
+G:\AH DSS\AllDayDJ\help\news.html=No
+G:\AH DSS\AllDayDJ\help\playing_file.html=No
+G:\AH DSS\AllDayDJ\help\recommendations.html=No
+G:\AH DSS\AllDayDJ\help\rotation.html=No
+G:\AH DSS\AllDayDJ\help\screen_shot_add.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_add_break.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_admin_options.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_break_delete.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_controls.jpg=No
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players.jpg=No
+G:\AH DSS\AllDayDJ\help\screen_shot_instant_players_small.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_login.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_logs.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_news.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_playlist.jpg=No
+G:\AH DSS\AllDayDJ\help\screen_shot_previous_songs.jpg=No
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_results.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_remove_search.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_rotation.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_search.bmp=No
+G:\AH DSS\AllDayDJ\help\screen_shot_search_results.bmp=No
+G:\AH DSS\AllDayDJ\help\screen_shot_select_advert.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_settings.JPG=No
+G:\AH DSS\AllDayDJ\help\screen_shot_timers.jpg=No
+G:\AH DSS\AllDayDJ\help\screen_shot_welcome.jpg=No
+G:\AH DSS\AllDayDJ\help\settings.html=No
+
+[Package|AllDay DJ V1.0 Beta Setup|Distribution]
+Type=single
+Size=
+Title=AllDay DJ V1.0 Beta
+
+[Package|AllDay DJ V1.0 Beta Setup|IconGroups]
+Group0=AllDay DJ Beta
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|AllDay DJ V1.0 Beta Setup|AllDay DJ Beta]
+Icon1="AllDay DJ.exe"
+Title1=AllDay DJ
+StartIn1=$(AppPath)
+Key1=Icon3
+Icon2=index.html
+Title2=AllDay DJ Help
+StartIn2=$(AppPath)\help
+Key2=Icon2
+
+[Package|AllDay DJ V1.0 Beta Setup|Package]
+PackageFolder=C:\AllDayDJ\setup
+ProjectFolder=G:\AH DSS\AllDayDJ
+ServerSideCab=
+File1=C:\AllDayDJ\setup\setup.exe
+File2=C:\AllDayDJ\setup\Setup.Lst
+File3=C:\AllDayDJ\setup\AllDay DJ.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|AllDay DJ Final Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\AH DSS\Installer Files
+
+[Package|AllDay DJ Final Package|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Text=Yes
+Jet 2.x=Yes
+
+[Package|AllDay DJ Final Package|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|AllDay DJ Final Package|Files Found]
+
+[Package|AllDay DJ Final Package|Files Released]
+RESIZERXT.OCX=
+AllDayDJ.CHI=
+
+[Package|AllDay DJ Final Package|Missing Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\mshtml.tlb=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+E:\AH DSS\AllDayDJ\basswma.dll=
+E:\AH DSS\AllDayDJ\bass.dll=
+
+[Package|AllDay DJ Final Package|Out-of-Date Dependency Information]
+C:\WINNT\system32\mscomctl.ocx=
+C:\WINNT\system32\msbind.dll=
+C:\WINNT\system32\mshflxgd.ocx=
+C:\WINNT\system32\msdatlst.ocx=
+C:\WINNT\system32\msdatgrd.ocx=
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINNT\system32\msstdfmt.dll=
+C:\WINNT\system32\msadodc.ocx=
+C:\WINNT\system32\comctl32.ocx=
+
+[Package|AllDay DJ Final Package|Files Added]
+e:\ah dss\alldaydj\alldaydj.chm=
+e:\ah dss\blankdbs\logs.mdb=
+e:\ah dss\blankdbs\record_collection.mdb=
+e:\ah dss\alldaydj\playlists\playlists.txt=
+e:\ah dss\user documentation.pdf=
+E:\AH DSS\AllDayDJ\networking.dat=
+E:\AH DSS\AllDayDJ\news.dat=
+E:\AH DSS\AllDayDJ\rotation.dat=
+E:\AH DSS\AllDayDJ\soundcard.dat=
+E:\AH DSS\AllDayDJ\STATION.dat=
+
+[Package|AllDay DJ Final Package|Files Removed]
+
+[Package|AllDay DJ Final Package|Files In Project]
+E:\AH DSS\AllDayDJ\AllDay DJ.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+E:\AH DSS\AllDayDJ\bass.dll=Yes
+E:\AH DSS\AllDayDJ\basswma.dll=Yes
+C:\WINNT\system32\hhctrl.ocx=Yes
+C:\WINNT\system32\itss.dll=Yes
+C:\WINNT\system32\itircl.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\msadodc.ocx=Yes
+C:\WINNT\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\comdlg32.ocx=Yes
+C:\WINNT\system32\msdatgrd.ocx=Yes
+C:\WINNT\system32\msdatlst.ocx=Yes
+C:\WINNT\system32\mshflxgd.ocx=Yes
+C:\WINNT\system32\msbind.dll=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\mscomctl.ocx=Yes
+C:\WINNT\system32\mshtml.tlb=Yes
+C:\WINNT\system32\MSEXCL35.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINNT\system32\MSTEXT35.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\AH DSS\AllDayDJ\AllDayDJ.chm=Yes
+E:\AH DSS\blankdbs\logs.mdb=Yes
+E:\AH DSS\blankdbs\record_collection.mdb=Yes
+E:\AH DSS\AllDayDJ\Playlists\Playlists.txt=Yes
+E:\AH DSS\User Documentation.pdf=Yes
+C:\WINNT\system32\hh.exe=Yes
+E:\AH DSS\AllDayDJ\networking.dat=Yes
+E:\AH DSS\AllDayDJ\news.dat=Yes
+E:\AH DSS\AllDayDJ\rotation.dat=Yes
+E:\AH DSS\AllDayDJ\soundcard.dat=Yes
+E:\AH DSS\AllDayDJ\STATION.dat=Yes
+
+[Package|AllDay DJ Final Package|Configure Registry Files]
+Applicable=No
+
+[Package|AllDay DJ Final Package|Configure Remote Servers]
+Applicable=No
+
+[Package|AllDay DJ Final Package|Install Locations]
+E:\AH DSS\AllDayDJ\AllDay DJ.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+E:\AH DSS\AllDayDJ\bass.dll=$(WinSysPath)
+E:\AH DSS\AllDayDJ\basswma.dll=$(WinSysPath)
+C:\WINNT\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINNT\system32\itss.dll=$(WinSysPath)
+C:\WINNT\system32\itircl.dll=$(WinSysPath)
+C:\WINNT\hh.exe=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\msadodc.ocx=$(WinSysPath)
+C:\WINNT\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINNT\system32\msdatlst.ocx=$(WinSysPath)
+C:\WINNT\system32\mshflxgd.ocx=$(WinSysPath)
+C:\WINNT\system32\msbind.dll=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\mshtml.tlb=$(WinSysPath)
+C:\WINNT\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\AH DSS\AllDayDJ\AllDayDJ.chm=$(AppPath)
+E:\AH DSS\blankdbs\logs.mdb=$(AppPath)
+E:\AH DSS\blankdbs\record_collection.mdb=$(AppPath)
+E:\AH DSS\AllDayDJ\Playlists\Playlists.txt=$(AppPath)\Playlists
+E:\AH DSS\User Documentation.pdf=$(AppPath)
+C:\WINNT\system32\hh.exe=$(WinSysPath)
+E:\AH DSS\AllDayDJ\networking.dat=$(AppPath)
+E:\AH DSS\AllDayDJ\news.dat=$(AppPath)
+E:\AH DSS\AllDayDJ\rotation.dat=$(AppPath)
+E:\AH DSS\AllDayDJ\soundcard.dat=$(AppPath)
+E:\AH DSS\AllDayDJ\STATION.dat=$(AppPath)
+
+[Package|AllDay DJ Final Package|Configure Shared Files]
+Applicable=Yes
+E:\AH DSS\AllDayDJ\AllDay DJ.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\AH DSS\AllDayDJ\AllDayDJ.chm=No
+E:\AH DSS\blankdbs\logs.mdb=No
+E:\AH DSS\blankdbs\record_collection.mdb=No
+E:\AH DSS\AllDayDJ\Playlists\Playlists.txt=No
+E:\AH DSS\User Documentation.pdf=No
+E:\AH DSS\AllDayDJ\networking.dat=No
+E:\AH DSS\AllDayDJ\news.dat=No
+E:\AH DSS\AllDayDJ\rotation.dat=No
+E:\AH DSS\AllDayDJ\soundcard.dat=No
+E:\AH DSS\AllDayDJ\STATION.dat=No
+
+[Package|AllDay DJ Final Package|Distribution]
+Type=single
+Size=
+Title=AllDay DJ - Radio Automation Software
+
+[Package|AllDay DJ Final Package|IconGroups]
+Group0=AllDay DJ v1.0.11
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|AllDay DJ Final Package|AllDay DJ v1.0.11]
+Icon1="AllDay DJ.exe"
+Title1=AllDay DJ v1.0.11
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2="User Documentation.pdf"
+Title2=AllDay DJ Full Manual
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|AllDay DJ Final Package|Package]
+PackageFolder=E:\AH DSS\Installer Files
+ProjectFolder=E:\AH DSS\AllDayDJ
+ServerSideCab=
+File1=E:\AH DSS\Installer Files\setup.exe
+File2=E:\AH DSS\Installer Files\Setup.Lst
+File3=E:\AH DSS\Installer Files\AllDay DJ.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
